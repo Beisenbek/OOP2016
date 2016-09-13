@@ -1,0 +1,6 @@
+c:\users\b.baisakov\documents\visual studio 2013\Projects\OOP_Calculator\OOP_Calculator\bin\Debug\OOP_Calculator.exe.config
+c:\users\b.baisakov\documents\visual studio 2013\Projects\OOP_Calculator\OOP_Calculator\bin\Debug\OOP_Calculator.exe
+c:\users\b.baisakov\documents\visual studio 2013\Projects\OOP_Calculator\OOP_Calculator\bin\Debug\OOP_Calculator.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\OOP_Calculator\OOP_Calculator\obj\Debug\OOP_Calculator.csprojResolveAssemblyReference.cache
+c:\users\b.baisakov\documents\visual studio 2013\Projects\OOP_Calculator\OOP_Calculator\obj\Debug\OOP_Calculator.exe
+c:\users\b.baisakov\documents\visual studio 2013\Projects\OOP_Calculator\OOP_Calculator\obj\Debug\OOP_Calculator.pdb
